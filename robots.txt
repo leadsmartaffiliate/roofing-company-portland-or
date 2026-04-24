@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-company-portland-or.netlify.app/sitemap.xml
